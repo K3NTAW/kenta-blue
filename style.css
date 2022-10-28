@@ -1,13 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 body {
   background-color: #151515;
   color: aliceblue;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-@media only screen and (min-width: 750px){
-  .menu-pages {
-    font-size: 200px;
-    font
-  }
-
+.nav-menu_nav-links {
+  box-align: center;
+  padding: 12px 24px;
+  color: #333;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 550;
+  text-decoration: none;
+}
+.nav-links-link a {
+  align-items: ;
 }
