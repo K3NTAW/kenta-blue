@@ -4,11 +4,6 @@ body {
   color: aliceblue;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-}
 .nav-button {
   padding: 40px;
 }
@@ -18,4 +13,8 @@ padding: 0;
   position: absolute;
   width: 350px;
 }
-
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
